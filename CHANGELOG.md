@@ -6,6 +6,12 @@ PyO3 versions, please see the [migration guide](https://pyo3.rs/latest/migration
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [unreleased]
+
+### Packaging
+
+- Extend `hashbrown` optional dependency supported versions to include 0.12. [#????](https://github.com/PyO3/pyo3/pull/????)
+
 ## [0.16.0] - 2022-02-27
 
 ### Packaging
